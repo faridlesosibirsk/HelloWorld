@@ -11,6 +11,11 @@
         "php": ">=7.2.0",
         "yiisoft/yii2": "~2.0.31"
     },
+    "autoload": {
+        "files": [
+            "vendor/yiisoft/yii2/Yii.php"
+        ]
+    },
     "repositories": [
         {
             "type": "composer",
