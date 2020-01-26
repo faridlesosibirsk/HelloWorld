@@ -6,3 +6,5 @@
     <br>
 </p>
 Hello world from yii2!
+Yii 2 HelloWorld Project Template.
+Yii 2 is a modern framework. It is fast, secure and efficient and works right out of the box pre-configured with reasonable defaults. The framework is easy to adjust to meet your needs, because Yii has been designed to be flexible.
