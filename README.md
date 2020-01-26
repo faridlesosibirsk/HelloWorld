@@ -1,8 +1,7 @@
-<p align="center">
-    <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
-    </a>
-    <h1 align="center">HelloWorld</h1>
-    <br>
-</p>
+# HelloWorld
+
 Hello world from yii2!
+
+memory_get_usage 607096
+
+microtime 0.0040080547332764
