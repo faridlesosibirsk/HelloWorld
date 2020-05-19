@@ -8,12 +8,10 @@
     ],
     "minimum-stability": "stable",    
     "require": {
-        "php": ">=7.2.0",
-        "yiisoft/yii2": "~2.0.31"
+        "php": ">=7.2.0"
     },
     "autoload": {
         "files": [
-            "vendor/yiisoft/yii2/Yii.php"
         ]
     },
     "repositories": [
